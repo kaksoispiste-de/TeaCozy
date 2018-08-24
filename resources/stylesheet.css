@@ -111,7 +111,7 @@ header span {
   height: 500px;
   margin: 0 auto;
   position: relative;
-  background-image: url("img-locations-background.jpg"); /* jakos dziwnie dziala*/
+  background-image: url("img-locations-background.jpg");
 }
 
 .locations h2 {
